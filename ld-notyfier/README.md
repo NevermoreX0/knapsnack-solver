@@ -1,4 +1,4 @@
 # Bash notyfier for LD
 
-you can run script via CLI
-""">> sh ./notyfire.sh"""
+you can run script via CLI<br>
+_>> sh ./notyfire.sh_
