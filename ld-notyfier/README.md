@@ -1,4 +1,4 @@
-# Bash notyfier for LD
+# Bash notyfire for LD
 
 you can run script via CLI<br>
 _>> sh ./notyfire.sh_<br>
